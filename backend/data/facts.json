@@ -1,0 +1,31 @@
+{
+    "full_name": "Jorge Luis Gutiérrez Verdugo",
+    "name": "Jorge",
+    "current_role": "Data & Automation Analyst",
+    "location": "Culiacán, Sinaloa, Mexico",
+    "email": "jorge.lgv6@gmail.com",
+    "linkedin": "linkedin.com/in/jorgelgutierrezv",
+    "specialties": [
+      "Data analysis and automation",
+      "KPI development & monitoring",
+      "SQL & Python scripting"
+    ],
+    "years_experience": 4,
+    "education": [
+      {
+        "degree": "Master's in Big Data & Business Intelligence",
+        "institution": "Next Educación",
+        "year": "2025"
+      },
+      {
+        "degree": "Master's in Artificial Intelligence",
+        "institution": "Univ. TecMilenio",
+        "year": "2023"
+      },
+      {
+        "degree": "B.A. in Business Administration & Finance",
+        "institution": "Univ. TecMilenio",
+        "year": "2021"
+      }
+    ]
+  }
